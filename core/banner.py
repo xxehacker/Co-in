@@ -20,7 +20,7 @@ def Banner():
         + """
     Social Links:
     github : https://github.com/xxehacker
-    gmail: mridupawan502@gmail.com
+    gmail: mridupawan503@gmail.com
 
         """
         + Colors.ENDC
